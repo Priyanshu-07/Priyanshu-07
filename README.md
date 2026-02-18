@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanshu-07
 - 👀 I’m interested in Coding, Designing and Developing.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently Developing softwares for Banks and Financial Services.
 - 📫 How to reach me vermapriyanshu91@gmail.com
 
 <!---
